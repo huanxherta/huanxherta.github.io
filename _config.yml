@@ -14,7 +14,7 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-url: https://huanxherta.github.io
+url: https://0d000721.cv
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
