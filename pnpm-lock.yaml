@@ -53,6 +53,9 @@ importers:
       hexo-theme-nexmoe:
         specifier: ^4.2.2
         version: 4.2.2(chokidar@3.6.0)
+      hexo-theme-redefine:
+        specifier: ^2.9.0
+        version: 2.9.0
       hexo-wordcount:
         specifier: ^6.0.1
         version: 6.0.1
@@ -1170,6 +1173,9 @@ packages:
 
   hexo-theme-nexmoe@4.2.2:
     resolution: {integrity: sha512-/lO8Esa+SdwnKl8ZDpVb2zhf7y2LPdZzeEIPbsi1w+wQ14OKXfcR7PHOSJNjgvEblVnsmCxduVnihZF6he+GtA==}
+
+  hexo-theme-redefine@2.9.0:
+    resolution: {integrity: sha512-rKsxBPwdJ95kitOqNTLVhY6Wh0mN/5elbDmR5GcrLYrVsZhhY+f1vmgyptUPhkMWp0NiwzrXc4QSkbncfN+vWg==}
 
   hexo-util@2.7.0:
     resolution: {integrity: sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ==}
@@ -3288,6 +3294,8 @@ snapshots:
     transitivePeerDependencies:
       - chokidar
       - supports-color
+
+  hexo-theme-redefine@2.9.0: {}
 
   hexo-util@2.7.0:
     dependencies:
