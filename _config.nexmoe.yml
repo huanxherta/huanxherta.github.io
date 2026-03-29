@@ -27,10 +27,10 @@ menu:
         - /
         - icon-home
     文章归档:
-        - /archive.html
+        - /archives/
         - icon-container
     关于我:
-        - /about.html
+        - /about/
         - icon-info-circle
 
 widgets:
