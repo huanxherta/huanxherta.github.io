@@ -24,7 +24,7 @@ type: "about"
 
 ### 📱 项目
 
-- **QQHook** - LSPosed 模块，移动 QQ 未读消息气泡位置
+- **QQHook** - LSPosed 模块
 - **各种 Android 逆向工具**
 
 ### 🔗 联系方式
