@@ -85,7 +85,7 @@ exclude:
 ignore:
 
 # Extensions
-theme: nexmoe
+theme: butterfly
 
 # Deployment
 deploy:
