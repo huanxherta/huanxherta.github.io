@@ -1,1 +1,0 @@
-import"./config.B57PI6GZ.js";import"./zh_TW.DQhvB9P3.js";function c(o,e){const n=o.replace(/^\/|\/$/g,"").toLowerCase(),r=e.replace(/^\/|\/$/g,"").toLowerCase();return n===r}function t(...o){return o.join("/").replace(/\/+/g,"/")}function u(o){return t("","/",o)}export{c as p,u};

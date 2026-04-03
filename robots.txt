@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /
-Allow: /$
-Allow: /posts/
-
-Sitemap: https://0d000721.cv/sitemap-index.xml
